@@ -1,0 +1,68 @@
+.h2{
+    color: black;
+    font-size: 48px;
+}
+.p2{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    word-spacing: 2px;
+}
+.h22{
+    color: blue;
+    text-transform: capitalize;
+}
+.ol2{
+    line-height: 30px;
+}
+#h11{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aqua;
+    background-color: black;
+}
+#o1{
+    line-height: 30px;
+}
+#b1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#p1{
+    color:darkgreen;
+    line-height: 29px;
+}
+#h21{
+    background-color: black;
+    color: aqua;
+}
+#p21{
+    text-align: left;
+    text-indent: 200px;
+    line-height: 30px;
+}
+.jk{
+    color:red;
+}
+.n{
+    line-height: 34px;
+    color:darkolivegreen;
+}
+#ab:hover{
+    color:deeppink;
+}
+#ab:visited{
+    color: black;
+}
+#ab:link{
+    color:red;
+}
+#ab:active{
+    color:green;
+}
+#bb:hover{
+    color:pink;
+}
+#bb:active{
+    color:green;
+}
+#bb:visited{
+    color:red;
+}
